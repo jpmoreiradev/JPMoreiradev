@@ -1,4 +1,4 @@
-# Hi! I'm João Pedro 👋
+# Hi! I'm João Pedro ✔👋
 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Python 
@@ -21,7 +21,6 @@
  <div> 
   <a href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jpm_021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jp02120123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-pedro-455b79203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
