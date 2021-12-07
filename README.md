@@ -1,4 +1,4 @@
-# Hi! I'm João Pedro ✔👋
+# Hi! I'm João Pedro✔👋
 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Python 
@@ -15,14 +15,18 @@
   <img align="center" alt="JP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JP-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt=" Linguagem Utilizada no Momento!" height="150" style="border-radius:50px;" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg">
-    
+  <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="right" alt="Language Used at the Time!" height="150" style="border-radius:50px;" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg">
+
 </div>
+
+
  <div> 
   <a href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target=""></a>
   <a href="https://www.instagram.com/jpm_021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-pedro-455b79203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <h2>Language used at the time! ---> <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </h2>
+
  
    ![Snake animation](https://github.com/JPMoreiraAquino/JPMoreiraAquino/blob/output/github-contribution-grid-snake.svg)
  
