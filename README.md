@@ -1,5 +1,7 @@
 # Hi! I'm João Pedro✔👋
 
+
+- Language used at the time! ---> <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Python 
 - 🤔 I’m looking for help with Back-End 
