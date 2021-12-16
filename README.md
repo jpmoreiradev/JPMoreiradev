@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I want to do something bigger than formatting a PC
 <div align="center">
   <a href="https://github.com/JPMoreiraAquino">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JPMoreiraAquino&show_icons=True&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMoreiraAquino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPMoreiraAquino&show_icons=True&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMoreiraAquino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -22,7 +22,7 @@
 
 </div>
 
-  <h1> </h1>
+ 
 
  <div> 
   <a href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target=""></a>
