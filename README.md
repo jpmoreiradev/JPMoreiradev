@@ -11,12 +11,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPMoreiraAquino&show_icons=True&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMoreiraAquino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div > 
-  <a href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" height="40" ></a>
-  <a href="https://www.instagram.com/jpm_021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"  height="40"></a>
-  <a href="https://www.linkedin.com/in/joao-pedro-455b79203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a> 
-  <img align="right" alt="Python-log" height="100" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    
+  <div> 
+  <a target="_blank" href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50"> </a>
+  <a target="_blank" href="https://www.instagram.com/jpm_021/" bord><img src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1641614747~hmac=315b67d80ac461a82715f9775fa03466" height="50"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/joao-pedro-455b79203/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png"  height="50"></a> 
+  <img align="right" alt="Python-log" height="100" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JP-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JP-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
