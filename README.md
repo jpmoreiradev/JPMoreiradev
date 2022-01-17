@@ -1,8 +1,8 @@
   # Hi! I'm João Pedro✔👋
 
   - 📚 I am learning ---> <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  > <img align="center" alt="JP-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" > 
-  - 🌱 I’m currently learning Python
-  - 👯 I’m looking to collaborate on Python 
+  - 🌱 I’m currently learning Back-End
+  - 👯 I’m looking to collaborate Back-End
   - 🤔 I’m looking for help with Back-End 
   - 📫 How to reach me: jp02120123@gmail.com
   - ⚡ Fun fact: I want to do something bigger than formatting a PC
