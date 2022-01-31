@@ -14,7 +14,7 @@
    
   <div> 
   <a target="_blank" href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50"> </a>
-  <a target="_blank"  href="https://www.instagram.com/jpm_021/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="50"> </a>
+  <a target="_blank"  href="https://www.instagram.com/jpmoreira_aq/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="50"> </a>
   <a target="_blank" href="https://www.linkedin.com/in/joao-pedro-455b79203/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png"  height="50"></a> 
   <img align="right" alt="MySLQ" height="100" width="320" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </div>
