@@ -15,7 +15,7 @@
   <div> 
   <a target="_blank" href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50"> </a>
   <a target="_blank"  href="https://www.instagram.com/jpmoreira_aq/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="50"> </a>
-  <a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-pedro-455b79203/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png"  height="50"></a> 
+  <a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-455b79203/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png"  height="50"></a> 
   </div>
 
  
