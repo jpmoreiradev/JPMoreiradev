@@ -32,6 +32,7 @@
   
 <div>
   <h2>Currently using ⬇⬇⬇    </h2> 
+    <img align="center" alt="JP-Js" height="120" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Docker" height="120" width="100" src="https://img.icons8.com/fluency/344/docker.png" />     
   <img align="left" alt="MySLQ" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="left" alt="Node.js" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
