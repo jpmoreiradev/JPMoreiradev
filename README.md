@@ -1,7 +1,8 @@
   # Hi! I'm João Pedro✔👋
 
   - 📚 I am studying ➡ <img align="center" alt="JP-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" > 
-<img align="center" alt="JP-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> <img align="center" alt="JP-AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> 
+<img align="center" alt="JP-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> <img align="center" alt="JP-AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> <img align="center" alt="JP-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+          
   - 🌱 I’m currently learning Back-End
   - 🤔 I’m looking for help with Back-End 
   - 📫 How to reach me: jp02120123@gmail.com
@@ -36,7 +37,8 @@
   <img align="left" alt="MySLQ" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="left" alt="Node.js" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="left" alt="TyperScript" height="120" width="140" img src="https://img.icons8.com/color/344/typescript.png" />
-  <img align="center" alt="JP-AWS" height="120" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="JP-AWS" height="120" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="JP-Redis" height="110" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
            
           
   
