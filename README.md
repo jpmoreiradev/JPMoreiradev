@@ -11,8 +11,9 @@
   <a href="https://github.com/JPMoreiraAquino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPMoreiraAquino&show_icons=True&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMoreiraAquino&layout=compact&langs_count=7&theme=dracula"/>
+ 
 </div>
-   
+   <img height="500" width="792" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/1dd0d32d-a834-424c-9f20-e67756d40245.svg">
   <div> 
   <a target="_blank" href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50"> </a>
   <a target="_blank"  href="https://www.instagram.com/jpmoreira_aq/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="50"> </a>
