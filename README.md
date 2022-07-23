@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I want to do something bigger than formatting a PC
 
 <div>
- <h2>Currently using ⬇⬇⬇ </h2> 
+ <h2> Currently Used ⬇⬇⬇ </h2> 
   <img align="left" alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="TyperScript" height="60" width="60" img src="https://img.icons8.com/color/344/typescript.png" />
   <img align="left" alt="Docker" height="60" width="60" src="https://img.icons8.com/fluency/344/docker.png"/>
@@ -33,7 +33,7 @@
   <a  href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-455b79203/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png"  height="50"></a>
   </div>
 
-<h2> More Dominated </h2>
+<h2> More Dominated  ⬇⬇⬇ </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="JP-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JP-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
