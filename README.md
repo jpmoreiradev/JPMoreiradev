@@ -28,7 +28,7 @@
 </div>
   </div>
     <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/42df2e11-cb1f-47cf-ac2e-f7cb7aa925ef.svg" target="_blank">
-    <img align="center" height="500" width="792" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/17f35b9b-1789-4bca-8cbd-97950fcb7bff.svg">
+    <img align="center" height="500" width="792" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/a1c55170-5245-4313-84bb-db1d995aafe4.svg">
     </a>
   <div >
   <h2> Click to know more about me ⬇⬇⬇ </h2>
@@ -57,7 +57,7 @@
    <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/1ebcf096-334f-4bb3-b5a6-a0b5e9d3e8bf.svg" target="_blank">
     <img align="center" height="400" width="400" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/1ebcf096-334f-4bb3-b5a6-a0b5e9d3e8bf.svg">
     </a>
-    <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg" target="_blank">
+    <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg" target="_blank" rel="noopener noreferrer" >
     <img align="center" height="400" width="400" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg">
     </a>
  <br>
