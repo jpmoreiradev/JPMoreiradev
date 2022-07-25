@@ -63,6 +63,8 @@
  <br>
  <br>
  <br>
+ <br>
+ 
  <h2>Snake 🐍</h2> 
     
  ![Snake animation](https://github.com/JPMoreiraAquino/JPMoreiraAquino/blob/output/github-contribution-grid-snake.svg)
