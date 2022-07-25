@@ -82,8 +82,6 @@
  <br>
  <br>
  <br>
- <br>
- <br>
  
  <h2>Snake 🐍</h2> 
     
