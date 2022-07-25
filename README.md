@@ -60,11 +60,25 @@
     <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg" target="_blank" rel="noopener noreferrer" >
     <img align="right" height="400" width="400" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg">
     </a>
+    
+ <br> 
  <br>
  <br>
  <br>
  <br>
- 
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
  <h2>Snake 🐍</h2> 
     
  ![Snake animation](https://github.com/JPMoreiraAquino/JPMoreiraAquino/blob/output/github-contribution-grid-snake.svg)
