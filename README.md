@@ -28,7 +28,7 @@
 </div>
   </div>
     <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/42df2e11-cb1f-47cf-ac2e-f7cb7aa925ef.svg" target="_blank">
-    <img align="center" height="500" width="792" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/a1c55170-5245-4313-84bb-db1d995aafe4.svg">
+    <img align="center" height="500" width="792" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/55d414e7-20ff-4064-a9a7-c7bad2f32307.svg">
     </a>
   <div >
   <h2> Click to know more about me ⬇⬇⬇ </h2>
