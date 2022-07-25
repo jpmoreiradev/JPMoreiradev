@@ -55,10 +55,10 @@
   <h2> Worked hours ⬇⬇⬇ </h2>
   
    <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/1ebcf096-334f-4bb3-b5a6-a0b5e9d3e8bf.svg" target="_blank">
-    <img align="left" height="415" width="415" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/1ebcf096-334f-4bb3-b5a6-a0b5e9d3e8bf.svg">
+    <img align="left" height="400" width="400" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/1ebcf096-334f-4bb3-b5a6-a0b5e9d3e8bf.svg">
     </a>
     <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg" target="_blank" rel="noopener noreferrer" >
-    <img align="right" height="415" width="415" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg">
+    <img align="right" height="400" width="400" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg">
     </a>
     
  <br> 
