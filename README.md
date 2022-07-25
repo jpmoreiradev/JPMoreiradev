@@ -54,7 +54,7 @@
   
   <h2> Worked hours ⬇⬇⬇ </h2>
   
-   <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/42df2e11-cb1f-47cf-ac2e-f7cb7aa925ef.svg" target="_blank">
+   <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/1ebcf096-334f-4bb3-b5a6-a0b5e9d3e8bf.svg" target="_blank">
     <img align="center" height="400" width="400" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/1ebcf096-334f-4bb3-b5a6-a0b5e9d3e8bf.svg">
     </a>
     <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg" target="_blank">
