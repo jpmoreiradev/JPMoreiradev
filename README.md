@@ -17,8 +17,9 @@
   <br>
   <br>
 </div>
+  <br>
  
- <h2></h2>
+ <h2> Github Stats ⬇⬇⬇</h2>
 
 <div align="left" target="_blank">
   <a href="https://github-readme-stats.vercel.app/api?username=JPMoreiraAquino&show_icons=True&theme=dracula&include_all_commits=true&count_private=true" target="_blank"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPMoreiraAquino&show_icons=True&theme=dracula&include_all_commits=true&count_private=true"/> </a>
@@ -26,12 +27,17 @@
 
 </div>
   </div>
-    <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/42df2e11-cb1f-47cf-ac2e-f7cb7aa925ef.svg" target="_blank"> <img height="500" width="792" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/17f35b9b-1789-4bca-8cbd-97950fcb7bff.svg"></a>
+    <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/42df2e11-cb1f-47cf-ac2e-f7cb7aa925ef.svg" target="_blank">
+    <img align="center" height="500" width="792" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/17f35b9b-1789-4bca-8cbd-97950fcb7bff.svg">
+    </a>
   <div >
+  <h2> Click to know more about me ⬇⬇⬇ </h2>
   <a href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50"> </a>
   <a href="https://www.instagram.com/jpmoreira_aq/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="50"> </a>
-  <a  href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-455b79203/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png"  height="50"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-455b79203/"><img  src="https://cdn-icons-png.flaticon.com/512/145/145807.png"  height="50"></a>
+   <a href="https://wa.me/5588997307495" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-3-1.png" height="50"> </a>
   </div>
+  <br>
 
 <h2> More Dominated  ⬇⬇⬇ </h2>
 <div style="display: inline_block"><br>
@@ -46,5 +52,16 @@
   <br>
   
   
+  <h2> Worked hours ⬇⬇⬇ </h2>
   
+   <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/42df2e11-cb1f-47cf-ac2e-f7cb7aa925ef.svg" target="_blank">
+    <img align="center" height="400" width="400" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/1ebcf096-334f-4bb3-b5a6-a0b5e9d3e8bf.svg">
+    </a>
+    <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg" target="_blank">
+    <img align="center" height="400" width="400" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/7499d7cd-de41-4b83-8123-95e7e7a341ca.svg">
+    </a>
+ <br>
+ <br>
+ <h2>Snake 🐍</h2> 
+    
  ![Snake animation](https://github.com/JPMoreiraAquino/JPMoreiraAquino/blob/output/github-contribution-grid-snake.svg)
