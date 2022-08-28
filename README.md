@@ -34,10 +34,11 @@
     </a>
   <div >
   <h2> Click to know more about me ⬇⬇⬇ </h2>
-  <a href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50"> </a>
-  <a href="https://www.instagram.com/jpmoreira_aq/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="50"> </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-455b79203/"><img  src="https://cdn-icons-png.flaticon.com/512/145/145807.png"  height="50"></a>
-   <a href="https://wa.me/5588997307495" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-3-1.png" height="50"> </a>
+  <a href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" height="50"> </a>
+  <a href="https://www.instagram.com/jpmoreira_aq/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" height="50"> </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-455b79203/"><img  src="https://img.icons8.com/plasticine/100/000000/linkedin.png" height="50"></a>
+   <a href="https://wa.me/5588997307495" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" height="50"> </a>
+  <a href="mailto:jp02120123@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" height="50" /></a>
   </div>
   <br>
 
