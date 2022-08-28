@@ -25,7 +25,7 @@
 
 <div align="left" target="_blank">
   <a href="https://github-readme-stats.vercel.app/api?username=JPMoreiraAquino&show_icons=True&theme=dracula&include_all_commits=true&count_private=true" target="_blank"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPMoreiraAquino&show_icons=True&theme=dracula&include_all_commits=true&count_private=true"/> </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMoreiraAquino&layout=compact&langs_count=7&theme=dracula" target="_blank"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMoreiraAquino&layout=compact&langs_count=7&theme=dracula"/> </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMoreiraAquino&layout=compact&langs_count=6&theme=dracula" target="_blank"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMoreiraAquino&layout=compact&langs_count=6&theme=dracula"/> </a>
 
 </div>
   </div>
