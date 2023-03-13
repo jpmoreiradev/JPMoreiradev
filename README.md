@@ -8,7 +8,8 @@ Minhas principais habilidades incluem o desenvolvimento de aplicativos web e mó
   <img align="left" alt="JavaScript" height="60" width="60" src="https://img.icons8.com/color/javascript" />
   <img align="left" alt="TyperScript" height="60" width="60" src="https://img.icons8.com/color/typescript" />
   <img align="left" alt="C++" height="60" width="60" src="https://img.icons8.com/color/c-plus-plus-logo" />
-  <img align="left" alt="Node-js" height="60" width="60" src="https://img.icons8.com/color/nodejs" />
+  <img align="left" alt="C++" height="60" width="60" src="https://img.icons8.com/color/python" />
+  <img align="left" alt="Java" height="60" width="60" src="https://img.icons8.com/color/java-coffee-cup-logo" />
   <br>
   <br>
   <br>
@@ -26,5 +27,6 @@ Minhas principais habilidades incluem o desenvolvimento de aplicativos web e mó
 ### Ferramentas e tecnologias:
  <img align="left" alt="Node-js" height="60" width="60" src="https://img.icons8.com/color/nodejs" />
  <img align="left" alt="Express-Js" height="60" width="60" src="https://img.icons8.com/color/express-js" />
+ <img align="left" alt="Docker" height="60" width="60" src="https://img.icons8.com/color/docker" />
  <img align="left" alt="AWS" height="60" width="60" src="https://img.icons8.com/color/amazon-web-services" />
  <img align="left" alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
