@@ -2,7 +2,7 @@
   
  I have a passion for technology and greatly enjoy problem-solving. My focus is on backend development, working with API manipulation using NodeJS, JavaScript, and TypeScript. I have knowledge in database management, encompassing both SQL and NoSQL, to ensure efficiency and scalability in applications. My experience is strong in creating tests using frameworks like Jest and Mocha, and I am skilled in using Express to build optimized endpoints. Additionally, I am familiar with the use of Docker containers, which contributes to efficient implementation and distribution of applications.
 
-Minhas principais habilidades incluem o desenvolvimento de aplicativos web e móveis.
+My main skills include web and mobile application development.
 
 ### Programming languages:
   <img align="left" alt="JavaScript" height="60" width="60" src="https://img.icons8.com/color/javascript" />
