@@ -1,10 +1,10 @@
 # Olá!, seja bem-vindo(a) ao meu portfólio no GitHub!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
-Meu nome é João Pedro e sou desenvolvedor de software, gosto de trabalhar em projetos desafiadores e estou sempre procurando aprender coisas novas para expandir minhas habilidades e conhecimentos. Meu objetivo é desenvolver aplicativos de alta qualidade e desempenho, e estou sempre procurando maneiras de melhorar o código e a experiência do usuário.
+ I have a passion for technology and greatly enjoy problem-solving. My focus is on backend development, working with API manipulation using NodeJS, JavaScript, and TypeScript. I have knowledge in database management, encompassing both SQL and NoSQL, to ensure efficiency and scalability in applications. My experience is strong in creating tests using frameworks like Jest and Mocha, and I am skilled in using Express to build optimized endpoints. Additionally, I am familiar with the use of Docker containers, which contributes to efficient implementation and distribution of applications.
 
 Minhas principais habilidades incluem o desenvolvimento de aplicativos web e móveis.
 
-### Linguagens de programação:
+### Programming languages:
   <img align="left" alt="JavaScript" height="60" width="60" src="https://img.icons8.com/color/javascript" />
   <img align="left" alt="TyperScript" height="60" width="60" src="https://img.icons8.com/color/typescript" />
   <img align="left" alt="C++" height="60" width="60" src="https://img.icons8.com/color/c-plus-plus-logo" />
@@ -14,7 +14,7 @@ Minhas principais habilidades incluem o desenvolvimento de aplicativos web e mó
   <br>
   <br>
   
-### Bancos de dados:
+### Database:
   <img align="left" alt="MySLQ" height="60" width="60" src="https://img.icons8.com/color/mysql" />
   <img align="left" alt="Prisma" height="60" width="60" src="https://img.icons8.com/color/prisma-orm" />
   <img align="left" alt="MariaDB" height="60" width="60" src="https://img.icons8.com/color/maria-db" />
@@ -24,7 +24,7 @@ Minhas principais habilidades incluem o desenvolvimento de aplicativos web e mó
   <br>
   <br>
   
-### Ferramentas e tecnologias:
+### Tools and technologies:
  <img align="left" alt="Node-js" height="60" width="60" src="https://img.icons8.com/color/nodejs" />
  <img align="left" alt="Express-Js" height="60" width="60" src="https://img.icons8.com/color/express-js" />
  <img align="left" alt="Docker" height="60" width="60" src="https://img.icons8.com/color/docker" />
