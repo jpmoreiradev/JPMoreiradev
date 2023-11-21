@@ -2,7 +2,7 @@
   
  I have a passion for technology and greatly enjoy problem-solving. My focus is on backend development, working with API manipulation using NodeJS, JavaScript, and TypeScript. I have knowledge in database management, encompassing both SQL and NoSQL, to ensure efficiency and scalability in applications. My experience is strong in creating tests using frameworks like Jest and Mocha, and I am skilled in using Express to build optimized endpoints. Additionally, I am familiar with the use of Docker containers, which contributes to efficient implementation and distribution of applications.
 
-My main skills include web and mobile application development.
+## My main skills include web and mobile application development.
 
 ### Programming languages:
   <img align="left" alt="JavaScript" height="60" width="60" src="https://img.icons8.com/color/javascript" />
@@ -30,3 +30,29 @@ My main skills include web and mobile application development.
  <img align="left" alt="Docker" height="60" width="60" src="https://img.icons8.com/color/docker" />
  <img align="left" alt="AWS" height="60" width="60" src="https://img.icons8.com/color/amazon-web-services" />
  <img align="left" alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
+
+<br>
+<br>
+
+ ## Github Stats ⬇⬇⬇
+
+<div align="left" target="_blank">
+  <a href="https://github-readme-stats.vercel.app/api?username=jpmoreiradev&show_icons=True&theme=dracula&include_all_commits=true&count_private=true" target="_blank"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpmoreiradev&show_icons=True&theme=dracula&include_all_commits=true&count_private=true"/> </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoreiradev&layout=compact&langs_count=6&theme=dracula" target="_blank"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoreiradev&layout=compact&langs_count=6&theme=dracula"/> </a>
+
+</div>
+  </div>
+    <a href="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/42df2e11-cb1f-47cf-ac2e-f7cb7aa925ef.svg" target="_blank">
+    <img align="center" height="500" width="792" src="https://wakatime.com/share/@81f81130-04c5-4bbb-8ca5-00deb55f82ee/55d414e7-20ff-4064-a9a7-c7bad2f32307.svg">
+    </a>
+  <div >
+  <h2> Click to know more about me </h2>
+  <a href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" height="50"> </a>
+  <a href="https://www.instagram.com/jpmoreira_aq/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" height="50"> </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-455b79203/"><img  src="https://img.icons8.com/plasticine/100/000000/linkedin.png" height="50"></a>
+   <a href="https://wa.me/5588997307495" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" height="50"> </a>
+  <a href="mailto:jp02120123@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" height="50" /></a>
+  </div>
+
+
