@@ -3,9 +3,8 @@
 I am a **Full Stack Developer** with experience in **Node.js, TypeScript, and Ruby on Rails**.  
 I build **APIs**, develop **scalable applications**, and manage **SQL databases**.  
 I also work on **frontend interfaces** with **React, Next.js, and Vue.js**, delivering complete solutions from **backend to UI**.  
-
-💡 I focus on **clean, maintainable code** and building solutions that **work reliably in real-world applications**.  
-🚀 I explore new technologies to deliver **efficient and scalable software**.
+I focus on **clean, maintainable code** and building solutions that **work reliably in real-world applications**.  
+I explore new technologies to deliver **efficient and scalable software**.
 
 ---
 
