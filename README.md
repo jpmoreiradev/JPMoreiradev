@@ -1,6 +1,6 @@
 # 👋 Hello, I'm João Pedro — Full Stack Developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
-I am a **Full Stack Developer** with experience in **Node.js, TypeScript, and Ruby on Rails**.  
+I am a **Full Stack Developer** with experience in **Node.js, React, TypeScript, and Ruby on Rails**.  
 I build **APIs**, develop **scalable applications**, and manage **SQL databases**.  
 I work on frontend interfaces with React, Next.js, and Vue.js, delivering complete solutions from backend to UI. 
 I focus on **clean, maintainable code** and building solutions that **work reliably in real-world applications**.  
