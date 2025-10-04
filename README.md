@@ -69,7 +69,6 @@ I explore new technologies to deliver **efficient and scalable software**.
 ## 📫 Connect with me
 <p float="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-455b79203/"><img  src="https://img.icons8.com/plasticine/100/000000/linkedin.png" height="50"></a>
-  <a href="https://www.instagram.com/jpmoreira_aq/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" height="50"> </a>
   <a href="https://www.youtube.com/channel/UCK2deOyGLojnZF9fHzngr6g" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" height="50"> </a>
   <a href="https://wa.me/5588997307495" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" height="50"> </a>
   <a href="mailto:jp02120123@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" height="50" /></a>
