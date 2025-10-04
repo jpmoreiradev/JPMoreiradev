@@ -10,13 +10,14 @@
   <img align="left" alt="C++" height="60" width="60" src="https://img.icons8.com/color/c-plus-plus-logo" />
   <img align="left" alt="C++" height="60" width="60" src="https://img.icons8.com/color/python" />
   <img align="left" alt="Java" height="60" width="60" src="https://img.icons8.com/color/java-coffee-cup-logo" />
+  <img width="60" height="60" alt="Ruby" src="https://github.com/user-attachments/assets/9a9ed023-f4a7-4da2-baf1-25e1d06b4de8" />
+
   <br>
   <br>
   <br>
 
 ### Database:
   <img align="left" alt="MySLQ" height="60" width="60" src="https://img.icons8.com/color/mysql" />
-  <img align="left" alt="Prisma" height="60" width="60" src="https://img.icons8.com/color/prisma-orm" />
   <img align="left" alt="MariaDB" height="60" width="60" src="https://img.icons8.com/color/maria-db" />
   <img align="left" alt="MongoDB" height="60" width="60" src="https://img.icons8.com/color/mongodb" />
   <img align="left" alt="Redis" height="60" width="60" src="https://img.icons8.com/color/redis" />
@@ -30,6 +31,8 @@
  <img align="left" alt="Docker" height="60" width="60" src="https://img.icons8.com/color/docker" />
  <img align="left" alt="AWS" height="60" width="60" src="https://img.icons8.com/color/amazon-web-services" />
  <img align="left" alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+ <img align="left" alt="Prisma" height="50" width="50" src="https://img.icons8.com/color/prisma-orm" />
+ <img width="70" height="70" alt="Rails" src="https://github.com/user-attachments/assets/16f36d8d-e625-49cf-a294-f835a7c9d4ec" />
 
 
 <br>
