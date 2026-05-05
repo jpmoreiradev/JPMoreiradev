@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreira-455b79203/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:jp02120123@gmail.com">
+  <a href="mailto:jpmoreira.dev.ti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   <a href="https://wa.me/5588997307495">
@@ -79,19 +79,6 @@ I'm a **Full Stack Developer** focused on building reliable, scalable software â
 
 ---
 
-## ğŸ“Š GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpmoreiradev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoreiradev&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jpmoreiradev&theme=dracula&hide_border=true&background=0d1117&dates=6E40C9&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
-</div>
-
----
-
 ## ğŸ Contribution Snake
 
 <div align="center">
@@ -116,7 +103,7 @@ I'm a **Full Stack Developer** focused on building reliable, scalable software â
   <a href="https://wa.me/5588997307495" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="mailto:jp02120123@gmail.com" target="_blank">
+  <a href="mailto:jpmoreira.dev.ti@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
