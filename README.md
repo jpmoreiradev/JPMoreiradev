@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%7C+React+%7C+Ruby+on+Rails+%7C+NestJS;Building+scalable+APIs+%26+web+applications;Clean+and+maintainable+code+enthusiast+%E2%9C%A8;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+Ruby+on+Rails+%7C+NestJS" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 I'm a **Full Stack Developer** focused on building reliable, scalable software — from RESTful APIs and backend architecture to complete frontend interfaces.
 
 - 🔧 Main stack: **Node.js**, **React**, **Ruby on Rails**, **NestJS**
-- 🗄️ Experienced with **SQL** and **NoSQL** databases
+- 🗄️ Experienced with **SQL**
 - ☁️ Cloud & DevOps: **AWS**, **Docker**
 - 🎯 Focus on **clean, maintainable code** and real-world performance
 - 🌱 Always exploring new technologies to level up
@@ -88,14 +88,6 @@ I'm a **Full Stack Developer** focused on building reliable, scalable software �
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jpmoreiradev&theme=dracula&hide_border=true&background=0d1117&dates=6E40C9&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jpmoreiradev&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
 </div>
 
 ---
